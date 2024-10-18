@@ -144,7 +144,6 @@ require("lazy").setup({
 --]]
 
 require("lsp.lspconf").setup()
-require("lsp.keymaps").setup()
 
 --[[
   _____ _  _ ___ __  __ ___ 
